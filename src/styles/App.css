@@ -203,6 +203,7 @@
 
 .services h6 {
   letter-spacing: 3px;
+  text-transform: capitalize;
 }
 
 .services p {
