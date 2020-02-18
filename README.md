@@ -1,5 +1,5 @@
 # Resort Reservation
-React app for searching rooms availabled at beach resort (only front-end).
+React app for searching rooms availabled at beach resort (only front-end). App deployed to Netlify.
 
 ## Built with
 ```
